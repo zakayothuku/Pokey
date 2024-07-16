@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pokey</string>
+    <string name="back_button">Go Back</string>
+    <string name="label_collecting_pokemons">Collecting Pokemons</string>
+    <string name="label_error_loading_pokemons">Error loading Pokemons</string>
+    <string name="label_loading">Loading</string>
+    <string name="label_error">Error</string>
+    <string name="title_pokemons">Pokemons</string>
+    <string name="label_pokemon_is_loading">%1$s is loading</string>
+    <string name="label_pokemon_failed_to_load">%1$s failed to load</string>
+    <string name="label_stats">Stats</string>
+    <string name="label_abilities">Abilities</string>
+</resources>

@@ -1,4 +1,4 @@
-## Pokey: Pokemons Catalog
+## Pokey: A Pokemons Catalog
 
 ### Tech stack
 - Kotlin 2.0.0
@@ -13,5 +13,5 @@
 - Unit Tests with JUnit 5.
 - Gradle Version Catalog for better dependency management.
 
-### Open API
-Pokey utilizes the [PokeAPI](https://pokeapi.co/) for building & fetching Restful APIs with regards to Pokemon
+### API
+Pokey utilizes the open API [PokeAPI](https://pokeapi.co/) for building & fetching Restful APIs with regards to Pokemon
